@@ -1,6 +1,6 @@
 # 🐍 Python - Mundo 1
 
-Repositório criado para guardar os exercícios e desafios desenvolvidos durante o **Mundo 1** do meu curso de Python.
+Repositório criado para guardar os exercícios e desafios desenvolvidos durante o **Mundo 1** do meu curso de Python do gustavo guanabara, (Curso em Video).
 
 ## 📁 Estrutura
 * **desafios/**: Resolução dos exercícios propostos nas aulas.
