@@ -2,4 +2,6 @@
 name = "scripts-python"
 version = "0.1.0"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "django-emoji>=2.2.2",
+]
