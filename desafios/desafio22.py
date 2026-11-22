@@ -1,6 +1,0 @@
-nome = str(input('Seu nome completo: '))
-dividindo = nome.split()
-print(nome.upper())
-print(nome.lower())
-print(len(nome.replace(' ', '')))
-print(len(dividindo[0]))
