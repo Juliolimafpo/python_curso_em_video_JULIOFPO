@@ -4,7 +4,7 @@ Exercícios e testes do **Mundo 1** de Python do Curso em Vídeo.
 
 ## 📂 Pastas
 
-* **`desafios/`**: Resolução dos desafios práticos (Desafio 01 em diante).
+* **`desafios/`**: Resolução dos desafios práticos.
 * **`python_testes/`**: Códigos de teste feitos durante as aulas.
 
 ## 📌 Assuntos vistos
