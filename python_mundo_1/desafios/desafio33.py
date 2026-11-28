@@ -1,12 +1,18 @@
-salario = float(input('Qual o Valor do seu Salario? '))
+n1 = int(input('Primeiro Valor: '))
+n2 = int(input('Segundo Valor: '))
+n3 = int(input('Terceiro Valor: '))
+menor = n1
+maior = n3
 
-if salario > 1250:
-    aumento = (10 / 100 * salario)
-    novo_salario = salario + aumento
-    print('Aumento de 10%')
-else:
-    aumento = (15 / 100 * salario)
-    novo_salario = salario + aumento
-    print('Aumento de 15%')
+if n2 < n1 and n2 < n3:
+    menor = n2
+if n3 < n1 and n3 < n2:
+    menor = n3
 
-print(f'Seu novo Salario é de {novo_salario}')
+if n2 > n3 and n2 > n1:
+    maior = n2
+
+if n1 > n3 and n1 > n2:
+    maior = n1
+
+print(f'O menor valor digitado foi {menor} e o maior foi {maior}')
